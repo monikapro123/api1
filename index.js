@@ -30,7 +30,7 @@ const products = [
     
 
 
-    [
+    
         {
             "id": 15,
             "name": "Microwave Oven",
@@ -191,7 +191,7 @@ const products = [
             "description": "Comfortable and trendy",
             "image": "https://m.media-amazon.com/images/I/91vmlgy6X-L._AC_UF1000,1000_QL80_.jpg"
         }
-    ]
+    
     
 
 

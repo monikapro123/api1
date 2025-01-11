@@ -117,7 +117,7 @@ const products = [
             "price": 120.01,
             "category": "furniture",
             "description": "Best in class performance",
-            "images": "https://source.unsplash.com/150x150/?tennis-racket"
+            "images": "https://images.woodenstreet.de/image/cache/data%2Fstudy-table%2Fnettle-study-table%2Frevised%2Fhoney%2Fupdated%2Fnew-logo%2F1-750x650.jpg"
         },
         {
             "id": 26,

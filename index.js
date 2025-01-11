@@ -37,7 +37,7 @@ const products = [
             "price": 680.61,
             "category": "Home Appliances",
             "description": "Energy efficient and reliable",
-            "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/microwave-new/n/n/i/-original-imagk3hjy9kveyzw.jpeg?q=90&crop=false"
+            "images": "https://rukminim2.flixcart.com/image/850/1000/xif0q/microwave-new/n/n/i/-original-imagk3hjy9kveyzw.jpeg?q=90&crop=false"
         },
         {
             "id": 16,
@@ -45,7 +45,7 @@ const products = [
             "price": 529.97,
             "category": "beauty",
             "description": "Comfortable and trendy",
-            "image": "https://cdn11.bigcommerce.com/s-xyx0x9ybhg/images/stencil/1280x1280/products/584/9033/51wZC83hRrL._SL1500___93875.1721206681.jpg?c=2&imbypass=on"
+            "images": "https://cdn11.bigcommerce.com/s-xyx0x9ybhg/images/stencil/1280x1280/products/584/9033/51wZC83hRrL._SL1500___93875.1721206681.jpg?c=2&imbypass=on"
         },
         {
             "id": 17,
@@ -53,7 +53,7 @@ const products = [
             "price": 112.49,
             "category": "electronics",
             "description": "High quality and durable",
-            "image": "https://images-cdn.ubuy.co.in/656a945223ff6745f332db44-new-onn-true-wireless-headphones-with.jpg"
+            "images": "https://images-cdn.ubuy.co.in/656a945223ff6745f332db44-new-onn-true-wireless-headphones-with.jpg"
         },
         {
             "id": 18,
@@ -61,7 +61,7 @@ const products = [
             "price": 575.68,
             "category": "electronics",
             "description": "Made with premium materials",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ikb3cS7itFdG0DzklvapiOIpKmmraos63w&s"
+            "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ikb3cS7itFdG0DzklvapiOIpKmmraos63w&s"
         },
         {
             "id": 19,
@@ -69,7 +69,7 @@ const products = [
             "price": 366.61,
             "category": "kitchen",
             "description": "Comfortable and trendy",
-            "image": "https://marketplace.canva.com/EAFpS1ceGQQ/1/0/1003w/canva-colorful-modern-cookbook-book-cover-YTEX1G_wu18.jpg"
+            "images": "https://marketplace.canva.com/EAFpS1ceGQQ/1/0/1003w/canva-colorful-modern-cookbook-book-cover-YTEX1G_wu18.jpg"
         },
         {
             "id": 20,
@@ -77,7 +77,7 @@ const products = [
             "price": 862.15,
             "category": "beauty",
             "description": "High quality and durable",
-            "image": "https://m.media-amazon.com/images/I/512dChFNuXL.jpg"
+            "images": "https://m.media-amazon.com/images/I/512dChFNuXL.jpg"
         },
         {
             "id": 21,
@@ -85,7 +85,7 @@ const products = [
             "price": 972.49,
             "category": "clothing",
             "description": "Compact and stylish design",
-            "image": "https://www.jiomart.com/images/product/original/rvakncpssk/inklenzo-blue-casual-shoes-sneaker-canvas-for-mens-daily-use-shoe-for-boys-shoe-for-men-product-images-rvakncpssk-0-202302051603.jpg?im=Resize=(500,630)"
+            "images": "https://www.jiomart.com/images/product/original/rvakncpssk/inklenzo-blue-casual-shoes-sneaker-canvas-for-mens-daily-use-shoe-for-boys-shoe-for-men-product-images-rvakncpssk-0-202302051603.jpg?im=Resize=(500,630)"
         },
         {
             "id": 22,
@@ -93,7 +93,7 @@ const products = [
             "price": 254.83,
             "category": "furniture",
             "description": "Best in class performance",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo2Ap4jdSpeQUnT433z8d4tfxokt0EkNNqsg&s"
+            "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo2Ap4jdSpeQUnT433z8d4tfxokt0EkNNqsg&s"
         },
         {
             "id": 23,
@@ -101,7 +101,7 @@ const products = [
             "price": 436.48,
             "category": "electronics",
             "description": "A must-have for enthusiasts",
-            "image": "https://myborosil.com/cdn/shop/files/BCM55W01_1.jpg"
+            "images": "https://myborosil.com/cdn/shop/files/BCM55W01_1.jpg"
         },
         {
             "id": 24,
@@ -109,7 +109,7 @@ const products = [
             "price": 802.9,
             "category": "clothing",
             "description": "Best in class performance",
-            "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/jacket/a/c/y/m-no-slc-women-winter-jackets-slc-original-imags224bm6hpmvg.jpeg?q=20&crop=false"
+            "images": "https://rukminim2.flixcart.com/image/850/1000/xif0q/jacket/a/c/y/m-no-slc-women-winter-jackets-slc-original-imags224bm6hpmvg.jpeg?q=20&crop=false"
         },
         {
             "id": 25,
@@ -117,7 +117,7 @@ const products = [
             "price": 120.01,
             "category": "furniture",
             "description": "Best in class performance",
-            "image": "https://source.unsplash.com/150x150/?tennis-racket"
+            "images": "https://source.unsplash.com/150x150/?tennis-racket"
         },
         {
             "id": 26,
@@ -125,7 +125,7 @@ const products = [
             "price": 615.55,
             "category": "Sports",
             "description": "Advanced features included",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-5WpickXLflVC5ASrnz4IH4Lbdcjy_ASWFQ&s"
+            "images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-5WpickXLflVC5ASrnz4IH4Lbdcjy_ASWFQ&s"
         },
         {
             "id": 27,
@@ -133,7 +133,7 @@ const products = [
             "price": 323.77,
             "category": "furniture",
             "description": "A must-have for enthusiasts",
-            "image": "https://skillotoys.com/cdn/shop/products/casa-websiteproducts5.25.jpg?v=1689869381"
+            "images": "https://skillotoys.com/cdn/shop/products/casa-websiteproducts5.25.jpg?v=1689869381"
         },
         {
             "id": 28,
@@ -141,7 +141,7 @@ const products = [
             "price": 711.82,
             "category": "furniture",
             "description": "Advanced features included",
-            "image": "https://cellbell.in/cdn/shop/files/038_4.png?v=1715064457"
+            "images": "https://cellbell.in/cdn/shop/files/038_4.png?v=1715064457"
         },
         {
             "id": 29,
@@ -149,7 +149,7 @@ const products = [
             "price": 12.83,
             "category": "furniture",
             "description": "Energy efficient and reliable",
-            "image": "https://ganpatiarts.com/cdn/shop/products/BOOK-SHELF-8.jpg?v=1710313360&width=1214"
+            "images": "https://ganpatiarts.com/cdn/shop/products/BOOK-SHELF-8.jpg?v=1710313360&width=1214"
         },
         {
             "id": 30,
@@ -157,7 +157,7 @@ const products = [
             "price": 226.32,
             "category": "jewellery",
             "description": "Energy efficient and reliable",
-            "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/ring/y/k/n/adjustable-1-rose-mkr147-ring-myki-original-imaghfvvhtdwr3fc.jpeg?q=90&crop=false"
+            "images": "https://rukminim2.flixcart.com/image/850/1000/xif0q/ring/y/k/n/adjustable-1-rose-mkr147-ring-myki-original-imaghfvvhtdwr3fc.jpeg?q=90&crop=false"
         },
         {
             "id": 31,
@@ -165,7 +165,7 @@ const products = [
             "price": 507.87,
             "category": "electronics",
             "description": "Lightweight and portable",
-            "image": "https://m.media-amazon.com/images/I/61TJrv6abxL.jpg"
+            "images": "https://m.media-amazon.com/images/I/61TJrv6abxL.jpg"
         },
         {
             "id": 32,
@@ -173,7 +173,7 @@ const products = [
             "price": 669.3,
             "category": "kitchen",
             "description": "Compact and stylish design",
-            "image": "https://www.claycraftindia.com/cdn/shop/products/DS40-NEWGEORGIAN-EBONY-E667copy.jpg?v=1629466892"
+            "images": "https://www.claycraftindia.com/cdn/shop/products/DS40-NEWGEORGIAN-EBONY-E667copy.jpg?v=1629466892"
         },
         {
             "id": 33,
@@ -181,7 +181,7 @@ const products = [
             "price": 54.65,
             "category": "kitchen",
             "description": "Best in class performance",
-            "image": "https://images-cdn.ubuy.co.in/653fc5a70fdd3b03d3619ee4-mainstays-black-5-cup-drip-coffee-maker.jpg"
+            "images": "https://images-cdn.ubuy.co.in/653fc5a70fdd3b03d3619ee4-mainstays-black-5-cup-drip-coffee-maker.jpg"
         },
         {
             "id": 34,
@@ -189,7 +189,7 @@ const products = [
             "price": 801.19,
             "category": "kitchen",
             "description": "Comfortable and trendy",
-            "image": "https://m.media-amazon.com/images/I/91vmlgy6X-L._AC_UF1000,1000_QL80_.jpg"
+            "images": "https://m.media-amazon.com/images/I/91vmlgy6X-L._AC_UF1000,1000_QL80_.jpg"
         }
     
     

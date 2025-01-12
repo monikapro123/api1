@@ -36,7 +36,7 @@ const products = [
             "name": "Microwave Oven",
             "price": 680.61,
             "category": "Home Appliances",
-            "description": "Energy efficient and reliable",
+            "description": "lorem ipsum dolor sit amet consectetur adipisicing elit lorem ipsum dolor sit amet consectetur adipisicing elit",
             "images": "https://rukminim2.flixcart.com/image/850/1000/xif0q/microwave-new/n/n/i/-original-imagk3hjy9kveyzw.jpeg?q=90&crop=false"
         },
         {
